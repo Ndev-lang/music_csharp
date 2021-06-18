@@ -1,0 +1,7 @@
+C:\Users\Central\source\repos\musica\musica\bin\Debug\musica.exe.config
+C:\Users\Central\source\repos\musica\musica\bin\Debug\musica.exe
+C:\Users\Central\source\repos\musica\musica\bin\Debug\musica.pdb
+C:\Users\Central\source\repos\musica\musica\obj\Debug\musica.csprojAssemblyReference.cache
+C:\Users\Central\source\repos\musica\musica\obj\Debug\musica.csproj.CoreCompileInputs.cache
+C:\Users\Central\source\repos\musica\musica\obj\Debug\musica.exe
+C:\Users\Central\source\repos\musica\musica\obj\Debug\musica.pdb
